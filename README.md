@@ -1,2 +1,2 @@
 # Mibl_Test
- Test work
+ Налаштування знаходяться в Assets -> Settings -> GameSettings.asset
